@@ -31,6 +31,4 @@ You will be building an `Owner`, `Fish`, `Dog`, and `Cat` class. An owner will k
 These are just a few hints and guidelines to help you through this lab. This lab is extensive and challenging. Rely on the guides here, refer to the previous Code Along on object relations, and **read the test output and test files**. Never forget to ask a question on Learn if you are stuck. And remember, as a programmer, your job is to *fix broken code!* Broken code is the norm, the baseline, the starting point for all of the projects you will build. Embrace it!
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-my-pets' title='My Pets'>My Pets</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/oo-my-pets'>OO My Pets</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG My Pets</p>
